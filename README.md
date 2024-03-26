@@ -67,13 +67,6 @@ Combining these elements, your GitHub README for the provided HTML code will loo
 
 This is a responsive and interactive course learning page built using HTML, Bootstrap, and JavaScript. It includes features such as a video player, language selection, progress tracking, and dark mode toggle.
 
-## Installation
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/yourrepository.git
-   ```
-2. Open the `index.html` file in a web browser.
 
 ## Usage
 
